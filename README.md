@@ -2,7 +2,7 @@
 
 Repository for Configurable Semantic and Sentiment Emotion Detector (ConSSED) - our system participating in the SemEval-2019 Task 3: EmoContext: Contextual Emotion Detection in Text (https://www.humanizing-ai.com/emocontext.html).
 
-## Installation Steps
+## Installation steps
 
 #### 1. Download the repository
 ```bash
@@ -32,13 +32,25 @@ Embeddings should be added according to the table below.
 | Emo2Vec      | emo2vec.txt |https://drive.google.com/file/d/1K0RPGSlBHOng4NN4Jkju_OkYtrmqimLi/view?usp=sharing | resource/embeddings/emo2vec  |
 
 
-## Reconstruction of the results from the publication.
+## Reconstruction of the results from the publication
 
 ```bash
 docker run -v /path-to-resources-directory/:/resources conssed python3.6 /conssed/predict.py /resources/models/<model_name>/predict.config
 ```
 
-Where <model_name> is one of the trained models, for example: BiLSTM_GloVe or ConSSED_NTUA_310_Emo2Vec.
+Where <model_name> is one of the trained models, the list of which is as follows:
+ - BiLSTM_GloVe
+ - BiLSTM_ELMo
+ - BiLSTM_NTUA_310
+ - BiLSTM_SSWE
+ - BiLSTM_Emo2Vec
+ - ConSSED_GloVe_SSWE
+ - ConSSED_GloVe_Emo2Vec
+ - ConSSED_ELMo_SSWE
+ - ConSSED_ELMo_Emo2Vec
+ - ConSSED_NTUA_310_SSWE
+ - ConSSED_NTUA_310_Emo2Vec
+ - ConSSED_NTUA_310_Emo2Vec_v2
 
 ## Train new models
 
