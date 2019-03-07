@@ -20,7 +20,7 @@ Resources necessary for reconstructing the results from the publication are avai
 #### 4. Complete resources
 
 Due to the fact that some of the resources we used are protected by certain restrictions, we could not add them to the resources folder.
-In order to use the ConSSED system, two types of missing resources must be filled in: data and embeddings. Data shared by organizers (train.txt, dev.txt and test.txt files) should be added to the data folder.
+In order to use the ConSSED system, two types of missing resources must be filled in: data and embeddings. Data shared by EmoContext organizers (train.txt, dev.txt and test.txt files) should be added to the data folder.
 Embeddings should be added according to the table below.
 
 
