@@ -26,10 +26,10 @@ Embeddings should be added according to the table below.
 
 | Embedding  | File  | Source link | Destination directory  | 
 |---|---|---|---|
-| GloVe      | glove.twitter.27B.100d.txt |http://nlp.stanford.edu/data/glove.twitter.27B.zip | resource/embeddings/glove  |
-| NTUA_310      | ntua_twitter_affect_310.txt |https://drive.google.com/open?id=1b-w7xf0d4zFmVoe9kipBHUwfoefFvU2t | resource/embeddings/word2vec  |
-| SSWE      | sswe-r.txt |http://ir.hit.edu.cn/~dytang/paper/sswe/embedding-results.zip | resource/embeddings/sswe  |
-| Emo2Vec      | emo2vec.txt |https://drive.google.com/file/d/1K0RPGSlBHOng4NN4Jkju_OkYtrmqimLi/view?usp=sharing | resource/embeddings/emo2vec  |
+| GloVe      | glove.twitter.27B.100d.txt |http://nlp.stanford.edu/data/glove.twitter.27B.zip | resources/embeddings/glove  |
+| NTUA_310      | ntua_twitter_affect_310.txt |https://drive.google.com/open?id=1b-w7xf0d4zFmVoe9kipBHUwfoefFvU2t | resources/embeddings/word2vec  |
+| SSWE      | sswe-r.txt |http://ir.hit.edu.cn/~dytang/paper/sswe/embedding-results.zip | resources/embeddings/sswe  |
+| Emo2Vec      | emo2vec.txt |https://drive.google.com/file/d/1K0RPGSlBHOng4NN4Jkju_OkYtrmqimLi/view?usp=sharing | resources/embeddings/emo2vec  |
 
 
 ## Reconstruction of the results from the publication
