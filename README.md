@@ -35,7 +35,7 @@ Embeddings should be added according to the table below.
 ## Reconstruction of the results from the publication
 
 ```bash
-docker run -v /path-to-resources-directory/:/resources conssed python3.6 /conssed/predict.py /resources/models/<model_name>/predict.config
+docker run --runtime=nvidia -v /path-to-resources-directory/:/resources conssed python3.6 /conssed/predict.py /resources/models/<model_name>/predict.config
 ```
 
 Where <model_name> is one of the trained models, the list of which is as follows:
