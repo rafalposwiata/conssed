@@ -6,7 +6,7 @@ Citation:
 ```bash
 @InProceedings{ConSSED-2019,
   author    = {Poświata, Rafał},
-  title     = {ConSSED at SemEval-2019 Task 3: Configurable Semantic and SentimentEmotion Detector},
+  title     = {ConSSED at SemEval-2019 Task 3: Configurable Semantic and Sentiment Emotion Detector},
   booktitle = {Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval-2019)},
   year = {2019},
   pages = {175–179}
