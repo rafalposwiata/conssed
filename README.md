@@ -3,6 +3,7 @@
 Repository for Configurable Semantic and Sentiment Emotion Detector (ConSSED) - our system participating in the SemEval-2019 Task 3: EmoContext: Contextual Emotion Detection in Text (https://www.humanizing-ai.com/emocontext.html).
 
 Publication:
+
 [ConSSED at SemEval-2019 Task 3: Configurable Semantic and Sentiment Emotion Detector](https://www.aclweb.org/anthology/S19-2027)
 
 Citation:
