@@ -68,7 +68,3 @@ Where <model_name> is one of the trained models, the list of which is as follows
  - ConSSED_NTUA_310_SSWE
  - ConSSED_NTUA_310_Emo2Vec
  - ConSSED_NTUA_310_Emo2Vec_v2
-
-## Train new models
-
-TODO
