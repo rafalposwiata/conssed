@@ -9,7 +9,7 @@ Publication:
 [ConSSED at SemEval-2019 Task 3: Configurable Semantic and Sentiment Emotion Detector](https://www.aclweb.org/anthology/S19-2027)
 
 Citation:
-```bash
+```bib
 @InProceedings{ConSSED-2019,
   author    = {Poświata, Rafał},
   title     = {ConSSED at SemEval-2019 Task 3: Configurable Semantic and Sentiment Emotion Detector},
